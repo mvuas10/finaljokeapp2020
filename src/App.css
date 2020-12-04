@@ -190,3 +190,27 @@ table {
   font-family: sans-serif;
   font-size: 18px;
 }
+
+/* Home */
+.section {
+  padding: 100px 50px;
+}
+
+.component-section-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.component-section-header img {
+  height: 200px;
+  margin-bottom: 30px;
+}
+
+.component-section-header h2 {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 25px;
+  color: #000000;
+  font-family: sans-serif;
+}
