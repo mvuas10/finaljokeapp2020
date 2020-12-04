@@ -13,12 +13,14 @@ export default function Home() {
         </h2>
       </div>
 
-      <Button
-        content1="Yes"
-        content2="No"
-        link1="/yesuglycry"
-        link2="/nofiredog"
-      />
+      <div>
+        <Button
+          content1="Yes"
+          content2="No"
+          link1="/yesuglycry"
+          link2="/nofiredog"
+        />
+      </div>
     </div>
   );
 }
