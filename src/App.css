@@ -193,7 +193,7 @@ table {
 
 /* Home */
 .section {
-  padding: 100px 50px;
+  padding: 100px 20px;
 }
 
 .component-section-header {
@@ -227,7 +227,6 @@ table {
   display: inline-block;
   font-size: 16px;
   border-radius: 6px;
-  margin-right: 10px;
 }
 
 .button2 {
