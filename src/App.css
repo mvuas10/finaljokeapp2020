@@ -208,6 +208,18 @@ table {
   margin-top: 10px;
 }
 
+.component-section-header .knight {
+  height: 320px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.component-section-header .fataqua {
+  height: 220px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
 .component-section-header h2 {
   margin-top: 15px;
   text-align: center;
