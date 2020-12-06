@@ -220,6 +220,12 @@ table {
   margin-top: 10px;
 }
 
+.component-section-header .summer {
+  height: 350px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
 .component-section-header h2 {
   margin-top: 15px;
   text-align: center;
