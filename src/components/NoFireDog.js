@@ -1,6 +1,7 @@
 import React from "react";
 import PicNoFireDog from "../components/images/PicNoFireDog.jpg";
 import Button from "./Button";
+import ButtonTest from "./ButtonTest";
 
 export default function NoFireDog() {
   return (
@@ -10,12 +11,7 @@ export default function NoFireDog() {
           <img src={PicNoFireDog} alt="NoFireDog" />
           <h3>Source: KC Green</h3>
         </div>
-        <Button
-          content1="More"
-          content2="Home"
-          link1="/nosadknight"
-          link2="/"
-        />
+        <ButtonTest content1="More" link1="/nosadknight" />
       </div>
     </div>
   );

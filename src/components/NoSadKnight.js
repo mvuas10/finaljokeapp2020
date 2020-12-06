@@ -1,6 +1,6 @@
 import React from "react";
 import PicSadKnight from "./images/PicSadKnight.jpg";
-import Button from "./Button";
+import ButtonTest from "./ButtonTest";
 
 export default function NoSadKnight() {
   return (
@@ -10,12 +10,7 @@ export default function NoSadKnight() {
           <img className="knight" src={PicSadKnight} alt="NoSadKnight" />
           <h3>Source: boredpanda</h3>
         </div>
-        <Button
-          content1="More"
-          content2="Home"
-          link1="/nofataquaman"
-          link2="/"
-        />
+        <ButtonTest content1="More" link1="/nofataquaman" />
       </div>
     </div>
   );

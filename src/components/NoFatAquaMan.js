@@ -1,6 +1,6 @@
 import React from "react";
 import NoFatAqua from "./images/NoFatAqua.jpg";
-import Button from "./Button";
+import ButtonTest from "./ButtonTest";
 
 export default function NoFatAquaMan() {
   return (
@@ -10,12 +10,7 @@ export default function NoFatAquaMan() {
           <img className="fataqua" src={NoFatAqua} alt="NoFatAquaMan" />
           <h3>Source: boredpanda</h3>
         </div>
-        <Button
-          content1="More"
-          content2="Home"
-          link1="/no500dayssummer"
-          link2="/"
-        />
+        <ButtonTest content1="More" link1="/no500dayssummer" />
       </div>
     </div>
   );

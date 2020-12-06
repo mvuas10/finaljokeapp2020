@@ -1,6 +1,7 @@
 import React from "react";
 import PicCryUgly from "../components/images/PicCryUgly.jpg";
 import Button from "./Button";
+import ButtonTest from "./ButtonTest";
 
 export default function YesUglyCry() {
   return (
@@ -12,12 +13,7 @@ export default function YesUglyCry() {
           <h3>Source: ITSMEDELABELLA</h3>
         </div>
         <div>
-          <Button
-            content1="More"
-            content2="Home"
-            link1="/yesfuturama"
-            link2="/"
-          />
+          <ButtonTest content1="More" link1="/yesfuturama" />
         </div>
       </div>
     </div>

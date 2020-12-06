@@ -1,6 +1,7 @@
 import React from "react";
 import PicFuturama from "./images/PicFuturama.jpg";
 import Button from "./Button";
+import ButtonTest from "./ButtonTest";
 
 export default function YesFuturama() {
   return (
@@ -10,12 +11,7 @@ export default function YesFuturama() {
           <img src={PicFuturama} alt="YesFuturama" />
           <h3>Source: Quickmeme.com</h3>
         </div>
-        <Button
-          content1="More"
-          content2="Home"
-          link1="/yeswhiteguycry"
-          link2="/"
-        />
+        <ButtonTest content1="More" link1="/yeswhiteguycry" />
       </div>
     </div>
   );
