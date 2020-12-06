@@ -8,9 +8,9 @@ export default function Home() {
       <div className="component-section-header">
         <img src={Logo} alt="Furry animal" />
 
-        <h2>
+        <h3>
           <div>Loving 2020 so far?</div>
-        </h2>
+        </h3>
       </div>
 
       <div>

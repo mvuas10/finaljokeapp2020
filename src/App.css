@@ -205,6 +205,7 @@ table {
 .component-section-header img {
   height: 200px;
   margin-bottom: 30px;
+  margin-top: 10px;
 }
 
 .component-section-header h2 {
@@ -212,6 +213,14 @@ table {
   text-align: center;
   font-size: 25px;
   color: #000000;
+  font-family: sans-serif;
+}
+
+.component-section-header h3 {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 14px;
+  color: #292929;
   font-family: sans-serif;
 }
 
