@@ -1,6 +1,5 @@
 import React from "react";
 import PicFuturama from "./images/PicFuturama.jpg";
-import Button from "./Button";
 import ButtonTest from "./ButtonTest";
 
 export default function YesFuturama() {

@@ -1,6 +1,6 @@
 import React from "react";
 import PicCryUgly from "../components/images/PicCryUgly.jpg";
-import Button from "./Button";
+
 import ButtonTest from "./ButtonTest";
 
 export default function YesUglyCry() {

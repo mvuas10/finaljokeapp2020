@@ -1,6 +1,5 @@
 import React from "react";
 import PicNoFireDog from "../components/images/PicNoFireDog.jpg";
-import Button from "./Button";
 import ButtonTest from "./ButtonTest";
 
 export default function NoFireDog() {
