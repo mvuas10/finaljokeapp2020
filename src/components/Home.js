@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../components/images/Logo.png";
+// import Logo from "../components/images/Logo.png";
 import Button from "./Button";
 import NewLogo from "../components/images/NewLogo.png";
 
