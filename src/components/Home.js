@@ -19,7 +19,7 @@ export default function Home() {
         <Button
           content1="Yes"
           content2="No"
-          link1="/yesuglycry"
+          link1="/yesfuturama"
           link2="/nofiredog"
         />
       </div>

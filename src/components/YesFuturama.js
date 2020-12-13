@@ -10,7 +10,7 @@ export default function YesFuturama() {
           <img src={PicFuturama} alt="YesFuturama" />
           <h3>Source: Quickmeme.com</h3>
         </div>
-        <ButtonTest content1="More" link1="/yeswhiteguycry" />
+        <ButtonTest content1="Home" link1="/" />
       </div>
     </div>
   );
